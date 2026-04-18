@@ -55,7 +55,7 @@ export default function Skills() {
   return (
     <section className="section skills" id="skills" ref={ref}>
       <div className="container">
-        <div className="badge">🛠️ Tech Stack</div>
+        <div className="badge">🛠️ Devops Stack</div>
         <h2 className="section-title">Skills &amp; Technologies</h2>
         <p className="section-subtitle">
           Significant aptitudes that will help me achieve your objectives and deliver excellence.
